@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Springboot/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot/visa-tracking-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot/user-management-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+</project>

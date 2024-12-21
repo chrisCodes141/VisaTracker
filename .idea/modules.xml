@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VisaTracker - AngularSpringboot.iml" filepath="$PROJECT_DIR$/.idea/VisaTracker - AngularSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Springboot/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/Springboot/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/Springboot/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/Springboot/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/user-management-service/user-management-service.iml" filepath="$PROJECT_DIR$/Springboot/user-management-service/user-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot/visa-tracking-service/visa-tracking-service.iml" filepath="$PROJECT_DIR$/Springboot/visa-tracking-service/visa-tracking-service.iml" />
+    </modules>
+  </component>
+</project>
